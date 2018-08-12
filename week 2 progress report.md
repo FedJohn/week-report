@@ -1,4 +1,5 @@
-   **ParrotAilPT-2018 week 2 progress report**
+   **ParrotAilPT-2018 week 2 progress report.**
+   
    ParrotAiLPT-2018 week two progress report consign about **Deep learning**. 
      Through this week l learned a lot of concepts and had  more  practices for more understanding deep learning.
      Deep learning is the subpart of machine learning that discovers and extracts the useful features from data using model.
@@ -8,22 +9,22 @@
 In machine learning we were deal with model to perform diferent operation but in deep learning
     we dealing with neural networks. Through deep learning l learned about the following neural networks.
    * Multilayer perceptron.
-         Multilayer perceptron have three parts which are 
-          *  Input layer
-          *  Hidden layer
-          *  Output layer
+      Multilayer perceptron have three parts which are 
+      *  Input layer
+      *  Hidden layer
+      *  Output layer
 Between layers there are processes of feed-forward way that interconnect those layers.
 
    * Convolution neural networks.
-  l have learned about Architecture of CNN.
-  In the Convolution network architecture has three layers, which are :
-         * Convolution layer
-         * Detector’s layer
-         * Pooling layer
-         * Full connected layer
+      l have learned about Architecture of CNN.
+       In the Convolution network architecture has three layers, which are :
+       * Convolution layer
+       * Detector’s layer
+       * Pooling layer
+       * Full connected layer
 
    * Recurrent neural networks. 
-   The output of RNN depends on previous output and next input.
+    The output of RNN depends on previous output and next input.
 
 In order to get clear results using you neural network, you have to pass some stages like:- 
    * loading your datasets from file 
