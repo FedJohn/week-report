@@ -26,3 +26,4 @@ ParrotAiLPT-2018 week two progress report consign about Deep learning. Through t
 
  Challenges that can face when dealing with deep learning are like availability of suitable datasets and to you can get datasets but not enough, Also the ability of computer on analyzing data and training model.
 © 2018 GitHub, Inc.
+
