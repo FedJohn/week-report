@@ -12,14 +12,14 @@ For week one, l was passed through chapter one to chapter four.
     This help me to partsipate well in weekely assiment because l was understood concept of machine learning.
  
  ML has following types
- - Supervised ML
+ - *Supervised ML. 
 this is about Learn a model from a given set of input-output pairs, in order to
 predict the output of new inputs.
  
- - Unsupervised ML.
+ - *Unsupervised ML. 
 this is all about Discover patterns and learn the structure of unlabelled data.
        
- - ReiForcement ML
+ - *ReiForcement ML. 
 learn what action to take on a give situation.
        
  Then l walked through  tools  using to analysing and visualized dataset like numpy, pandas, matplotlib and  scipy.
