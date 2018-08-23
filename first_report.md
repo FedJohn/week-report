@@ -13,14 +13,14 @@ For week one, l was passed through chapter one to chapter four.
  
  ML has following types
  - Supervised ML
- this is about Learn a model from a given set of input-output pairs, in order to
- predict the output of new inputs.
+this is about Learn a model from a given set of input-output pairs, in order to
+predict the output of new inputs.
  
  - Unsupervised ML.
-   this is all about Discover patterns and learn the structure of unlabelled data.
+this is all about Discover patterns and learn the structure of unlabelled data.
        
  - ReiForcement ML
-   learn what action to take on a give situation.
+learn what action to take on a give situation.
        
  Then l walked through  tools  using to analysing and visualized dataset like numpy, pandas, matplotlib and  scipy.
    
