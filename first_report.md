@@ -1,8 +1,9 @@
 ### AI IPT2018: week one report correction
 - Introduction.
-    According to the different works and other activities which we were done.
-    l understood the concept of machine learning and  problems can be solved by  using machine learning and 
-    how i can using algorithms of machine learning to solve it well.
+
+According to the different works and other activities which we were done.
+l understood the concept of machine learning and  problems can be solved by  using machine learning and 
+how i can using algorithms of machine learning to solve it well.
 
 The concept of machine learning is very wide and it can be used to solve complex problems as well as simple one.
     Machine learning is the all about science of programming computer to understand data and use it to solve a problem
@@ -15,8 +16,8 @@ For week one, l was passed through chapter one to chapter four.
  this is about Learn a model from a given set of input-output pairs, in order to
  predict the output of new inputs.
  
- - Unsupervised ML
-   this is all about V=Discover patterns and learn the structure of unlabelled data.
+ - Unsupervised ML.
+   this is all about Discover patterns and learn the structure of unlabelled data.
        
  - ReiForcement ML
    learn what action to take on a give situation.
